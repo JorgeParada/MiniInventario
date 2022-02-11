@@ -1,1 +1,1 @@
-# Mini Inventario usando jQuery, JavaScript, Bootstrap, HTML y CSS
+# Juego de T-Rex Chrome hecho con JavaScript, HTML5 y CSS3.
